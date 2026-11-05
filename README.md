@@ -7,6 +7,7 @@ EduSimplify helps students — especially first-generation learners and those fr
 
 ---
 
+
 ## Features
 
 | Feature | Description |
