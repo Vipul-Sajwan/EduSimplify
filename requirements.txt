@@ -1,0 +1,4 @@
+streamlit
+ibm-watsonx-ai
+python-dotenv
+pymupdf
